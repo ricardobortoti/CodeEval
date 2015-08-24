@@ -4,3 +4,9 @@ C:\CodeEval\Easy\ReverseWords\bin\Debug\ReverseWords.exe
 C:\CodeEval\Easy\ReverseWords\bin\Debug\ReverseWords.pdb
 C:\CodeEval\Easy\ReverseWords\obj\Debug\ReverseWords.exe
 C:\CodeEval\Easy\ReverseWords\obj\Debug\ReverseWords.pdb
+C:\Users\ricardo\Documents\CodeEval\Easy\ReverseWords\bin\Debug\ReverseWords.exe.config
+C:\Users\ricardo\Documents\CodeEval\Easy\ReverseWords\obj\Debug\ReverseWords.exe
+C:\Users\ricardo\Documents\CodeEval\Easy\ReverseWords\obj\Debug\ReverseWords.pdb
+C:\Users\ricardo\Documents\CodeEval\Easy\ReverseWords\bin\Debug\ReverseWords.exe
+C:\Users\ricardo\Documents\CodeEval\Easy\ReverseWords\bin\Debug\ReverseWords.pdb
+C:\Users\ricardo\Documents\CodeEval\Easy\ReverseWords\obj\Debug\ReverseWords.csprojResolveAssemblyReference.cache
