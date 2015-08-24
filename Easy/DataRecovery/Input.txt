@@ -1,0 +1,20 @@
+﻿prototype uncomfortable a team her a for in data implemented and and she Hopper wrote English were with notation, 1955, processing and early customers language programming found that mathematical specification business an;32 9 31 20 19 22 24 14 5 30 18 13 17 1 21 26 8 10 12 16 6 29 15 7 28 27 2 3 11 23 4
+Hopper prototype with mathematical her team implemented uncomfortable notation, and language specification that customers programming and English 1955, she an data business were a a for found wrote in processing early and;1 32 10 11 19 20 30 9 12 13 28 23 3 7 27 18 26 16 17 25 5 4 8 22 31 24 2 21 14 6 15
+of Ferranti Brooker autocode in Manchester the in Mercury the conjunction also an 1950s the University developed with for;18 8 1 5 13 19 16 10 9 11 14 2 4 12 7 17 3 15
+had the to ran, it be every equivalent program running code making into the code time slower translated However, much machine machine the process than;4 16 5 14 13 6 11 23 3 21 10 15 8 2 25 12 19 7 1 18 9 24 22 17
+use it since the the at and in direct COBOL, AIMACO influence only major a were descendent actual design of time its Flow-Matic in was;22 13 11 7 24 23 14 20 16 10 18 5 12 4 3 19 17 21 8 9 25 15 1 6
+code it to into convert A the programming language, compiler used a automatically machine language;15 4 8 13 10 1 11 2 3 7 5 6 9 14
+the and language high-level Plankalkul, developed between 1945 1943 was German for designed Z3 computer An a by to programming Zuse be early Konrad for;16 24 5 3 13 14 22 25 23 12 17 15 8 18 11 1 10 19 6 4 21 7 2 20
+had the equivalent making machine much slower translated time machine the However, than program the it code to process every ran, be running into code;4 16 23 15 9 18 19 7 12 24 2 1 20 3 22 13 10 5 17 11 14 6 21 8
+the of autocode Ferranti Brooker in an for in conjunction the the Manchester Mercury 1950s developed with University also;11 18 5 8 1 10 4 6 13 14 16 7 19 9 12 3 15 17
+Unlike code, expressions in form understandable machine Short Code statements represented mathematical;1 3 9 10 12 11 2 4 5 6 7
+since it of descendent in were in was influence major a AIMACO design actual Flow-Matic COBOL, and direct use only the time at the its;11 13 9 17 6 19 20 2 5 4 3 18 8 21 1 10 14 16 22 12 24 25 23 7
+development Known and for it Mercury adapted its local for for code optimisation a straight source-language 2 which were object circumstances, Autocode as was was the diagnostics noted EDSAC and Autocode, time from advanced;10 1 26 32 6 12 14 22 16 21 15 24 25 8 9 27 4 29 30 23 17 13 2 19 7 33 28 20 3 18 5 34 11
+Plankalkul, language early computer for German high-level developed 1943 by designed Konrad Zuse programming An between to the a Z3 1945 was for be and;13 5 2 11 9 17 3 14 23 19 8 20 21 4 1 22 6 16 10 18 25 12 15 7
+to 1950s languages a the computer designed were communicate programming in instructions first The written to;9 16 4 10 15 11 5 12 7 3 14 8 2 1 13
+Alick developed the Autocode University Manchester, of Glennie At in early the 1950s;6 8 11 9 3 5 4 7 1 10 12 2
+major and at use in were influence descendent COBOL, AIMACO since it direct a Flow-Matic the in design of was the actual time its only;4 14 23 22 6 19 5 17 10 18 11 13 16 3 1 7 20 8 9 2 24 21 25 15
+University Atlas of the 1 but Manchester Autocode developed machine thread of A separate development, was for contemporary Atlas;14 17 6 13 18 3 16 9 11 19 5 15 1 4 7 10 12 2
+Known circumstances, EDSAC was Autocode, adapted as Autocode Mercury diagnostics straight 2 it advanced noted for and for for time optimisation which local development was object its were source-language a from and the code;1 17 3 19 5 14 2 13 12 28 9 4 6 31 20 15 26 32 21 34 25 29 16 10 7 23 22 30 27 8 11 18 33
+in 2 of EDSAC Laboratory University was Cambridge by the for The 1961 devised Mathematical version of Hartley;17 6 11 5 16 12 7 14 9 4 3 1 18 8 15 2 13
+1998 until implemented was 2000 it and However, not;7 6 5 3 9 2 8 1

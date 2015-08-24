@@ -1,0 +1,6 @@
+c:\CodeEval\ReverseWords\bin\Debug\ReverseWords.exe.config
+C:\CodeEval\Easy\ReverseWords\bin\Debug\ReverseWords.exe.config
+C:\CodeEval\Easy\ReverseWords\bin\Debug\ReverseWords.exe
+C:\CodeEval\Easy\ReverseWords\bin\Debug\ReverseWords.pdb
+C:\CodeEval\Easy\ReverseWords\obj\Debug\ReverseWords.exe
+C:\CodeEval\Easy\ReverseWords\obj\Debug\ReverseWords.pdb

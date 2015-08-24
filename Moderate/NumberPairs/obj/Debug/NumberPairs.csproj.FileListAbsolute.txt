@@ -1,0 +1,6 @@
+C:\CodeEval\Moderate\NumberPairs\bin\Debug\NumberPairs.exe.config
+C:\CodeEval\Moderate\NumberPairs\bin\Debug\NumberPairs.exe
+C:\CodeEval\Moderate\NumberPairs\bin\Debug\NumberPairs.pdb
+C:\CodeEval\Moderate\NumberPairs\obj\Debug\NumberPairs.csprojResolveAssemblyReference.cache
+C:\CodeEval\Moderate\NumberPairs\obj\Debug\NumberPairs.exe
+C:\CodeEval\Moderate\NumberPairs\obj\Debug\NumberPairs.pdb

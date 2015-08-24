@@ -1,0 +1,5 @@
+C:\CodeEval\Easy\DataRecovery\bin\Debug\DataRecovery.exe.config
+C:\CodeEval\Easy\DataRecovery\bin\Debug\DataRecovery.exe
+C:\CodeEval\Easy\DataRecovery\bin\Debug\DataRecovery.pdb
+C:\CodeEval\Easy\DataRecovery\obj\Debug\DataRecovery.exe
+C:\CodeEval\Easy\DataRecovery\obj\Debug\DataRecovery.pdb
