@@ -10,3 +10,8 @@ C:\Users\ricardo\Documents\CodeEval\Easy\ReverseWords\obj\Debug\ReverseWords.pdb
 C:\Users\ricardo\Documents\CodeEval\Easy\ReverseWords\bin\Debug\ReverseWords.exe
 C:\Users\ricardo\Documents\CodeEval\Easy\ReverseWords\bin\Debug\ReverseWords.pdb
 C:\Users\ricardo\Documents\CodeEval\Easy\ReverseWords\obj\Debug\ReverseWords.csprojResolveAssemblyReference.cache
+C:\ricardo\CodeEval\Easy\ReverseWords\bin\Debug\ReverseWords.exe.config
+C:\ricardo\CodeEval\Easy\ReverseWords\bin\Debug\ReverseWords.exe
+C:\ricardo\CodeEval\Easy\ReverseWords\bin\Debug\ReverseWords.pdb
+C:\ricardo\CodeEval\Easy\ReverseWords\obj\Debug\ReverseWords.exe
+C:\ricardo\CodeEval\Easy\ReverseWords\obj\Debug\ReverseWords.pdb
