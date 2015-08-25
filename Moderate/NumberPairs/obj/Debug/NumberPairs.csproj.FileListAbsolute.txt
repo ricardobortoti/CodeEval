@@ -7,7 +7,6 @@ C:\CodeEval\Moderate\NumberPairs\obj\Debug\NumberPairs.pdb
 C:\Users\ricardo\Documents\CodeEval\Moderate\NumberPairs\bin\Debug\NumberPairs.exe.config
 C:\Users\ricardo\Documents\CodeEval\Moderate\NumberPairs\bin\Debug\NumberPairs.exe
 C:\Users\ricardo\Documents\CodeEval\Moderate\NumberPairs\bin\Debug\NumberPairs.pdb
-C:\Users\ricardo\Documents\CodeEval\Moderate\NumberPairs\obj\Debug\NumberPairs.csprojResolveAssemblyReference.cache
 C:\Users\ricardo\Documents\CodeEval\Moderate\NumberPairs\obj\Debug\NumberPairs.exe
 C:\Users\ricardo\Documents\CodeEval\Moderate\NumberPairs\obj\Debug\NumberPairs.pdb
 C:\ricardo\CodeEval\Moderate\NumberPairs\bin\Debug\NumberPairs.exe.config

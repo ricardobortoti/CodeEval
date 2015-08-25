@@ -32,15 +32,21 @@ namespace MinimumPathSum
                     }
                 }
 
-                int sum = 0;
-
-                for(int i = 0; i < size; i++)
+                for (int i = size - 2; i >= 0; i--)
                 {
-
+                    matrix[size - 1, i] += matrix[size - 1, i + 1];
+                    matrix[i, size - 1] += matrix[i + 1, size - 1];
                 }
-                
+
+                for (int i = size - 2; i >= 0; i--)
+                {
+                    for (int j = size - 2; j >= 0; j--)
+                    {
+                        matrix[i, j] += Math.Min(matrix[i + 1, j], matrix[i, j + 1]);
+                    }
+                }
+                Console.WriteLine("{0}", matrix[0, 0]);   
             }
-            Console.ReadKey();
         }
     }
 }

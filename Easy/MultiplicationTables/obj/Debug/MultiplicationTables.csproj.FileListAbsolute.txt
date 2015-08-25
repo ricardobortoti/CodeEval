@@ -6,7 +6,6 @@ C:\CodeEval\Easy\MultiplicationTables\obj\Debug\MultiplicationTables.pdb
 C:\Users\ricardo\Documents\CodeEval\Easy\MultiplicationTables\bin\Debug\MultiplicationTables.exe.config
 C:\Users\ricardo\Documents\CodeEval\Easy\MultiplicationTables\bin\Debug\MultiplicationTables.exe
 C:\Users\ricardo\Documents\CodeEval\Easy\MultiplicationTables\bin\Debug\MultiplicationTables.pdb
-C:\Users\ricardo\Documents\CodeEval\Easy\MultiplicationTables\obj\Debug\MultiplicationTables.csprojResolveAssemblyReference.cache
 C:\Users\ricardo\Documents\CodeEval\Easy\MultiplicationTables\obj\Debug\MultiplicationTables.exe
 C:\Users\ricardo\Documents\CodeEval\Easy\MultiplicationTables\obj\Debug\MultiplicationTables.pdb
 C:\ricardo\CodeEval\Easy\MultiplicationTables\bin\Debug\MultiplicationTables.exe.config
