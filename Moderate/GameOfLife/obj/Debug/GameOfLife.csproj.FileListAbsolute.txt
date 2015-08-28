@@ -1,0 +1,5 @@
+C:\Users\ricardo\Documents\CodeEval\Moderate\GameOfLife\bin\Debug\GameOfLife.exe.config
+C:\Users\ricardo\Documents\CodeEval\Moderate\GameOfLife\bin\Debug\GameOfLife.exe
+C:\Users\ricardo\Documents\CodeEval\Moderate\GameOfLife\bin\Debug\GameOfLife.pdb
+C:\Users\ricardo\Documents\CodeEval\Moderate\GameOfLife\obj\Debug\GameOfLife.exe
+C:\Users\ricardo\Documents\CodeEval\Moderate\GameOfLife\obj\Debug\GameOfLife.pdb

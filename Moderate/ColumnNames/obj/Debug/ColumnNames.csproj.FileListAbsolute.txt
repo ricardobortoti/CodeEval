@@ -1,0 +1,5 @@
+C:\Users\ricardo\Documents\CodeEval\Moderate\ColumnNames\bin\Debug\ColumnNames.exe.config
+C:\Users\ricardo\Documents\CodeEval\Moderate\ColumnNames\bin\Debug\ColumnNames.exe
+C:\Users\ricardo\Documents\CodeEval\Moderate\ColumnNames\bin\Debug\ColumnNames.pdb
+C:\Users\ricardo\Documents\CodeEval\Moderate\ColumnNames\obj\Debug\ColumnNames.exe
+C:\Users\ricardo\Documents\CodeEval\Moderate\ColumnNames\obj\Debug\ColumnNames.pdb

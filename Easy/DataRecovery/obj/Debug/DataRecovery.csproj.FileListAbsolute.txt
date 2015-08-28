@@ -13,3 +13,4 @@ C:\ricardo\CodeEval\Easy\DataRecovery\bin\Debug\DataRecovery.exe
 C:\ricardo\CodeEval\Easy\DataRecovery\bin\Debug\DataRecovery.pdb
 C:\ricardo\CodeEval\Easy\DataRecovery\obj\Debug\DataRecovery.exe
 C:\ricardo\CodeEval\Easy\DataRecovery\obj\Debug\DataRecovery.pdb
+C:\Users\ricardo\Documents\CodeEval\Easy\DataRecovery\obj\Debug\DataRecovery.csprojResolveAssemblyReference.cache

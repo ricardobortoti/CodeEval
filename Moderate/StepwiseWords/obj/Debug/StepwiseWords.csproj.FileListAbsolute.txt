@@ -1,0 +1,6 @@
+C:\Users\ricardo\Documents\CodeEval\Moderate\StepwiseWords\bin\Debug\Input.txt
+C:\Users\ricardo\Documents\CodeEval\Moderate\StepwiseWords\bin\Debug\StepwiseWords.exe.config
+C:\Users\ricardo\Documents\CodeEval\Moderate\StepwiseWords\bin\Debug\StepwiseWords.exe
+C:\Users\ricardo\Documents\CodeEval\Moderate\StepwiseWords\bin\Debug\StepwiseWords.pdb
+C:\Users\ricardo\Documents\CodeEval\Moderate\StepwiseWords\obj\Debug\StepwiseWords.exe
+C:\Users\ricardo\Documents\CodeEval\Moderate\StepwiseWords\obj\Debug\StepwiseWords.pdb

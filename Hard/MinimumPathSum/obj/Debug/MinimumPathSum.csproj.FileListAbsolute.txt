@@ -1,0 +1,5 @@
+C:\Users\ricardo\Documents\CodeEval\Hard\MinimumPathSum\bin\Debug\Input.txt
+C:\Users\ricardo\Documents\CodeEval\Hard\MinimumPathSum\bin\Debug\MinimumPathSum.exe
+C:\Users\ricardo\Documents\CodeEval\Hard\MinimumPathSum\bin\Debug\MinimumPathSum.pdb
+C:\Users\ricardo\Documents\CodeEval\Hard\MinimumPathSum\obj\Debug\MinimumPathSum.exe
+C:\Users\ricardo\Documents\CodeEval\Hard\MinimumPathSum\obj\Debug\MinimumPathSum.pdb
